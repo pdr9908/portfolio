@@ -11,7 +11,7 @@ Feel free to contact me and check out my social media to connect or chat:**
 
 ## bio
 
-I was born in Castelar, Argentina and immigrated to the United States (specifically Tampa, FL) when I was three years old. As a result, my first language is technically Spanish but I started learning English at a young age and thus consider myself having two mother tongues. Since then, I've completed an internship in Germany and my master's degree in Switzerland due to my love of exploring the world, new cultures, and learning languages.
+I was born in Castelar, Argentina and immigrated to the United States :us: (specifically Tampa, FL) when I was three years old. As a result, my first language is technically Spanish but I started learning English at a young age and thus consider myself having two mother tongues. Since then, I've completed an internship in Germany and my master's degree in Switzerland due to my love of exploring the world, new cultures, and learning languages.
 
 In fact, I have many extracurricular hobbies and passions that I couldn't live without and inspire some of my personal projects. These include:
 
@@ -32,12 +32,21 @@ You can check out my unofficial transcripts [here](files/transcripts_EPFL.pdf), 
 * Advanced Algorithms:
 * Applied Data Analysis
 
-During this two and a half year program, I completed a six month internship at Schindler Group which provided me with industry experience, a semester project with an EPFL professor and the IDIAP Research Institute, and my Master's thesis.
+During this two and a half year program, I completed:
 
-Prior to my Master's degree, I graduated from [Rice University](https://www.rice.edu) in Houston, TX with a B.A. in Computational and Applied Math.
+* a six month internship at Schindler Group  
+* a semester project with an EPFL professor and the IDIAP Research Institute
+* my Master's thesis
 
-## professional experience
+In May 2021, I graduated from [Rice University](https://www.rice.edu) in Houston, TX with a B.A. in Computational and Applied Math.
+This program was a lot more theoretical, where I built a strong mathematical foundation in analysis, calculus and statistics.
+Here, I learned to do rigorous proofs and built a strong work ethic.
+My senior design project was my first introduction to data science and its impact.
+The following were my favorite and most relevant courses at Rice:
 
-## projects
+* Operations Research
+
+My high school education awoke my passion for STEM and early as it may seem, jump-started my career by building a foundation of curiosity.
+I got my high school diploma at Robinson High School in Tampa, FL where I partook in the International Baccalaureate program.
 
 ## skills
