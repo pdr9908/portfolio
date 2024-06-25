@@ -50,7 +50,7 @@ During this two and a half year program, I completed:
 In May 2021, I graduated from **[Rice University](https://www.rice.edu)** in Houston, TX with a 🎓 **B.A. in Computational and Applied Math**.
 This program was a lot more theoretical, where I built a strong mathematical foundation in analysis, calculus and statistics.
 Here, I learned to do rigorous proofs and built a strong work ethic.
-The following were my favorite and most relevant courses at Rice, but you can view my full **[unofficial transcripts](files/Transcript_PAULARESCALA.pdf)**:
+The following were my favorite and most relevant courses at Rice, but you can view my full **[unofficial transcripts](files/Unofficial-Academic-Transcript.pdf.pdf)**:
 
 * Operations Research
 
