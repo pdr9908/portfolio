@@ -2,18 +2,12 @@
 
 Hey there 👋, Paula here! Thanks for visiting my portfolio!
 
-* [about me](#about-me)
-* [bio](#bio)
-* [eductaion](#education)
-* [projects](#portfolio)
-* [skills](#skills)
-
 ## about me
 
 I am a recent grad with a Master's degree in Data Science 🤓.
 I've worked on both solution-oriented and exploratory projects dealing with diverse data sources.
 I've completed projects spanning a breadth of topics, from processing cardiac signals for arrythmia detection in patients with congenital heart disease to analyzing web-scraped news articles with NLP techniques and social science approaches like running focus groups.
-My passion lies in building a strong career in data science and AI in order to provide data-driven solutions across myriad domain.
+My passion lies in building a strong career in data science and AI in order to provide data-driven solutions across myriad domains.
 
 **I am currently job hunting!**
 **Check out my [resume](files/PaulaRescala_Resume.pdf)!**
@@ -34,8 +28,6 @@ In fact, I have many extracurricular hobbies and passions that I couldn't live w
 
 ## education
 
-### epfl
-
 In February 2024, I completed my 🎓 **M.S. in Data Science at [EPFL](https://www.epfl.ch/en/)** in Lausanne, Switzerland.
 My degree program was very project-oriented and provided me with the hands-on experience I felt had been missing from my education up until this point.
 You can check out my **[unofficial transcripts](files/transcripts_EPFL.pdf)**, but the following were some of my favorite and most relevant courses:
@@ -48,8 +40,6 @@ During this two and a half year program, I completed:
 * internship @ [Schindler](https://regis.schindler.com/en/epfl-lab.html)
 * semester project @ [IDIAP Research Institute](https://www.idiap.ch/en)
 * master's thesis @ [EPFL's DLAB](https://dlab.epfl.ch)
-
-### rice
 
 In May 2021, I graduated from **[Rice University](https://www.rice.edu)** in Houston, TX with a 🎓 **B.A. in Computational and Applied Math**.
 This program was a lot more theoretical, where I built a strong mathematical foundation in analysis, calculus and statistics.
@@ -67,5 +57,3 @@ During my undergraduate studies, I completed:
 
 My high school education awoke my passion for STEM and early as it may seem, jump-started my career by building a foundation of curiosity.
 I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL where I partook in the [International Baccalaureate program](https://www.ibo.org/about-the-ib/).z
-
-## skills
