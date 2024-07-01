@@ -34,6 +34,8 @@ In fact, I have many extracurricular hobbies and passions that I couldn't live w
 
 ## education
 
+### epfl
+
 In February 2024, I completed my 🎓 **M.S. in Data Science at [EPFL](https://www.epfl.ch/en/)** in Lausanne, Switzerland.
 My degree program was very project-oriented and provided me with the hands-on experience I felt had been missing from my education up until this point.
 You can check out my **[unofficial transcripts](files/transcripts_EPFL.pdf)**, but the following were some of my favorite and most relevant courses:
@@ -43,9 +45,11 @@ You can check out my **[unofficial transcripts](files/transcripts_EPFL.pdf)**, b
 
 During this two and a half year program, I completed:
 
-* a six month internship at Schindler Group  
-* a semester project with an EPFL professor and the IDIAP Research Institute
-* my Master's thesis
+* internship @ [Schindler](https://regis.schindler.com/en/epfl-lab.html)
+* semester project @ [IDIAP Research Institute](https://www.idiap.ch/en)
+* master's thesis @ [EPFL's DLAB](https://dlab.epfl.ch)
+
+### rice
 
 In May 2021, I graduated from **[Rice University](https://www.rice.edu)** in Houston, TX with a 🎓 **B.A. in Computational and Applied Math**.
 This program was a lot more theoretical, where I built a strong mathematical foundation in analysis, calculus and statistics.
@@ -56,12 +60,12 @@ The following were my favorite and most relevant courses at Rice, but you can vi
 
 During my undergraduate studies, I completed:
 
-* an **internship** in Freiburg im Breisgau, Germany at the Institute for Microsystems Technology (IMTEK)
-* an **O-REU program** at Texas A&M University
-* an **internship** at Sandia National Labs
-* a **senior design project** partnering with Texas Children's Hospital
+* internship @ [IMTEK](https://www.imtek.de)
+* O-REU program @ [Texas A&M University](https://www.tamu.edu/index.html)
+* internship @ [Sandia National Labs](https://www.sandia.gov)
+* senior design project @ Rice partnering with [Texas Children's Hospital](https://www.texaschildrens.org)
 
 My high school education awoke my passion for STEM and early as it may seem, jump-started my career by building a foundation of curiosity.
-I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL where I partook in the International Baccalaureate program.
+I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL where I partook in the [International Baccalaureate program](https://www.ibo.org/about-the-ib/).z
 
 ## skills
