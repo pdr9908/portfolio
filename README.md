@@ -13,13 +13,16 @@ My passion lies in building a strong career in data science and AI in order to p
 **Check out my [resume](files/PaulaRescala_Resume.pdf)!**
 **Feel free to contact me and check out my social media to connect or chat:**
 
+* paula.d.rescala@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/paularescala/)
+
 ## education
 
 In February 2024, I completed my 🎓 **M.S. in Data Science at [EPFL](https://www.epfl.ch/en/)** in Lausanne, Switzerland.
 My degree program was very project-oriented and provided me with the hands-on experience I felt had been missing from my education up until this point.
 You can check out my **[unofficial transcripts](files/transcripts_EPFL.pdf)**, but the following were some of my favorite and most relevant courses:
 
-* Advanced Algorithms:
+* Advanced Algorithms
 * Applied Data Analysis
 
 During this two and a half year program, I completed:
@@ -57,9 +60,9 @@ I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL wher
 ## certifications
 
 Completed:
-[Data Science Associate](files/data_science_cert.pdf)
-[Data Literacy](files/data_lit_cert.pdf)
-[AI Fundamentals](files/ai_cert.pdf)
+* [Data Science Associate](files/data_science_cert.pdf)
+* [Data Literacy](files/data_lit_cert.pdf)
+* [AI Fundamentals](files/ai_cert.pdf)
 
 In progress: 
-[AWS Certified Machine Learning - Specialty]()
+* AWS Certified Machine Learning - Specialty
