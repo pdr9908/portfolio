@@ -66,3 +66,4 @@ Completed:
 
 In progress: 
 * AWS Certified Machine Learning - Specialty
+* Tableau Certified Data Analyst
