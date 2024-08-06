@@ -4,7 +4,7 @@ Hey there 👋, Paula here! Thanks for visiting my portfolio!
 
 ## about me
 
-I am a recent grad with a Master's degree in Data Science 🤓.
+I am a recent grad with a Master's degree in Data Science.
 I've worked on both solution-oriented and exploratory projects dealing with diverse data sources.
 I've completed projects spanning a breadth of topics, from processing cardiac signals for arrythmia detection in patients with congenital heart disease to analyzing web-scraped news articles with NLP techniques and social science approaches like running focus groups.
 My passion lies in building a strong career in data science and AI in order to provide data-driven solutions across myriad domains.
@@ -12,19 +12,6 @@ My passion lies in building a strong career in data science and AI in order to p
 **I am currently job hunting!**
 **Check out my [resume](files/PaulaRescala_Resume.pdf)!**
 **Feel free to contact me and check out my social media to connect or chat:**
-
-## bio
-
-I was born in Castelar, Argentina 🇦🇷 and immigrated to the United States 🇺🇸 (specifically Tampa, FL) when I was three years old.
-As a result, my first language is technically Spanish but I started learning English at a young age and thus consider myself having two mother tongues.
-Since then, I've completed an internship in Germany 🇩🇪 and my master's degree in Switzerland 🇨🇭 due to my love of exploring the world, new cultures, and learning languages.
-
-In fact, I have many extracurricular hobbies and passions that I couldn't live without and inspire some of my personal projects. These include:
-
-* exploring cultures and languages
-* reading books, buying books 📚, writing ✍🏼
-* bouldering 🧗🏻‍♀️, dancing 💃🏻, working out 🏋🏻‍♀️, yoga 🧘🏻‍♀️
-* social justice & politics ⚖️
 
 ## education
 
@@ -56,4 +43,23 @@ During my undergraduate studies, I completed:
 * senior design project @ Rice partnering with [Texas Children's Hospital](https://www.texaschildrens.org)
 
 My high school education awoke my passion for STEM and early as it may seem, jump-started my career by building a foundation of curiosity.
-I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL where I partook in the [International Baccalaureate program](https://www.ibo.org/about-the-ib/).z
+I got my 🎓 **high school diploma**  at Robinson High School in Tampa, FL where I partook in the [International Baccalaureate program](https://www.ibo.org/about-the-ib/).
+
+## projects
+
+### An Observational Study on LLM Detection of Personalized, Convincing Arguments
+
+### Indoor Navigation System to Improve Elevator Accessibility for the Visually Impaired
+
+### A Human-Centered Approach to Understanding Local News Consumption
+
+
+## certifications
+
+Completed:
+[Data Science Associate](files/data_science_cert.pdf)
+[Data Literacy](files/data_lit_cert.pdf)
+[AI Fundamentals](files/ai_cert.pdf)
+
+In progress: 
+[AWS Certified Machine Learning - Specialty]()
